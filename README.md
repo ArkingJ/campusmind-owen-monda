@@ -1,3 +1,5 @@
+Name: Owen Monda
+Registration Number: SCT-253-013/2023
 # CampusMind
 
 A small program that finds routes around a campus with six locations. I built it for ICS 2413 Artificial Intelligence using plain Python 3 so there is nothing to install.
